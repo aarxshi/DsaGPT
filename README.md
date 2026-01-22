@@ -1,4 +1,4 @@
-# DSAGPT - A Minimal GPT-Style Transformer from Scratch
+# DSAGPT - A Minimal GPT-Style Transformer Built from Scratch
 
 DSAGPT is a small transformer based language model built from scratch in PyTorch to explore how attention based models work in practice. The project focuses on understanding how a GPT style transformer is structured and trained by implementing each component explicitly, rather than relying on pretrained models or high-level frameworks that can hide many of the underlying details. The model is trained on a small dataset of DSA style question answer pairs and is designed to run quickly on modest hardware, making it suitable for learning, experimentation, and rapid iteration.
 
